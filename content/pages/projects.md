@@ -87,3 +87,12 @@ Hypothes.is brings community peer review to The Internet through a web applicati
 
 [Hypothes.is](http://hypothes.is/what-is-it/)
 [GitHub Page](https://github.com/hypothesis/h)
+
+## Collabosphere 
+Collabosphere is a education LMS that was designed and developed by a group of Graduate Students at UCB along site the design firlm, Arhcitect. It's aim is to produce an interactive, collaborative online course environment to connect students from around the world. This semester, it's being tested with a group of Masters students here at Berkeley and a group of Master's students in Norway. It's still a prototype, and man oh man does it need help! (open code coming soon....)
+
+
+
+
+
+##
